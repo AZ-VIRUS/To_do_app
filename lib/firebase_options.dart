@@ -4,17 +4,7 @@ import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
 
-/// Default [FirebaseOptions] for use with your Firebase apps.
-///
-/// ⚠️ THIS FILE IS A PLACEHOLDER.
-/// Do NOT use these values as-is. Run the FlutterFire CLI in your project
-/// root to generate the real file for your own Firebase project:
-///
-///   dart pub global activate flutterfire_cli
-///   flutterfire configure
-///
-/// This will overwrite this file with your project's actual API keys and
-/// app IDs for Android, iOS, web, etc. See the README for full steps.
+
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
