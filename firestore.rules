@@ -1,0 +1,13 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Only signed-in users can access todos, and only their own documents.
+    match /todos/{todoId} {
+      allow read, update, delete: if request.auth != null
+                                    && request.auth.uid == resource.data.userId;
+      allow create: if request.auth != null
+                     && request.auth.uid == request.resource.data.userId;
+    }
+  }
+}

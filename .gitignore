@@ -1,0 +1,26 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Platform generated
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+ios/Flutter/flutter_export_environment.sh
+
+# macOS
+.DS_Store
+
+# Generated files
+**/generated_plugin_registrant.dart
+
+# Symlinks
+.flutter-plugins
+.flutter-plugins-dependencies
