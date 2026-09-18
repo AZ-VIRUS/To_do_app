@@ -6,13 +6,14 @@ management, and a dynamic Light/Dark theme toggle.
 
 ## Screenshots
 
-> Replace these placeholders with your own screenshots or a screen
-> recording/GIF before submitting (e.g. drag images into `docs/` and
-> update the paths below).
+<img width="1366" height="768" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/3f326b8b-f758-41b7-b2f4-fb6923aa607a" />
+<img width="1366" height="768" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/443ad811-5221-44f2-bd38-4131e10ea1b0" />
+<img width="1366" height="768" alt="Screenshot (396)" src="https://github.com/user-attachments/assets/5c8bc082-c6d7-4312-bf5b-2d7c62132456" />
+<img width="1366" height="768" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/de6a8e0f-cd9a-4689-ac43-f31f98f28ace" />
+<img width="1366" height="768" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/fcfd311d-b976-4494-82c4-174180ca8851" />
+<img width="1366" height="768" alt="Screenshot (392)" src="https://github.com/user-attachments/assets/8829daa6-783c-4c90-bf37-8f867dfa9d84" />
+<img width="1366" height="768" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/f2e3ff85-4e7f-41d2-b4cb-31c2ee67f1d6" />
 
-| Login | Home | Add / Edit | Settings |
-|---|---|---|---|
-| `docs/login.png` | `docs/home.png` | `docs/add_edit.png` | `docs/settings.png` |
 
 ## Features
 
