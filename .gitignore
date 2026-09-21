@@ -24,3 +24,4 @@ ios/Flutter/flutter_export_environment.sh
 # Symlinks
 .flutter-plugins
 .flutter-plugins-dependencies
+**/lib/firebase_options.dart
